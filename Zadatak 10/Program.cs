@@ -3,6 +3,7 @@
 namespace Zadatak_10
 
 //Napišite funkciju koja vraća obrnuti broj danog cijelog broja.
+//izmjena
 
 {
     class Program
